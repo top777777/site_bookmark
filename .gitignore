@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pychche__
+/myenv
+db.sqlit3
+/static
+.DS_Store
